@@ -1,6 +1,10 @@
 # ImagePicker
 ###Android自定义相册，完全仿微信UI，实现了拍照、图片选择（单选/多选）、 裁剪 、旋转、等功能。
 
+# 目前[ImagePicker](https://github.com/jeasonlzy/ImagePicker)是我在维护，这个fork的不再使用！
+# 目前[ImagePicker](https://github.com/jeasonlzy/ImagePicker)是我在维护，这个fork的不再使用！
+# 目前[ImagePicker](https://github.com/jeasonlzy/ImagePicker)是我在维护，这个fork的不再使用！
+
 该项目参考了：
 
 * [https://github.com/pengjianbo/GalleryFinal](https://github.com/pengjianbo/GalleryFinal) 
